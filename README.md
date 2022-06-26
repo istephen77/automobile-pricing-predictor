@@ -1,5 +1,3 @@
-# automobile-pricing-predictor
-This ML project is developed to analyze and visualize the used car prices for the automobile dataset (source : Kaggle) in order to predict the most probable car price with maximum precision and accuracy.
 
 Data Analysis and Visualisation to predict Car Prices based on Used Car Prices Data Set : 
 
